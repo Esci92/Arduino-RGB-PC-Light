@@ -1,8 +1,6 @@
 # Arduino-RGB-PC-Light
 Arduino Control PC Light from Serialport
 
-I will Update esci.ch with a Layout and photos of the Projekt soon.
-
 I have created a LED-Driver that can be controlled over Serial Commands for my PC.  It’s possible to set a color or to use one of the implemented lights pattern. The Arduino possesses 6 different Operation modes: Rainbow, Color Up and Down, Manual, Breathing, Xmas and Random Color mode.
 You can adjust the brightness of the 3 Basic Colors in an 8bit resolution, this mean you have 256 steps per Color. So, with this setup are you able to create 16.777.216 different colors.
 The Arduino is connected directly to the PC so that you can control the unit with Serial commands.
